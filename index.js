@@ -1,5 +1,5 @@
 // added comments for main
-console.log("main aa");
+console.log("main");
 
 function main() {
   return null;
